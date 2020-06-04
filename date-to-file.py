@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/anaconda/bin/python
 
 from datetime import datetime
 now = datetime.now() # current date and time
